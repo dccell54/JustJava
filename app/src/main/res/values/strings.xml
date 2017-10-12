@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikasi Jual Kopi</string>
+    <string name="gula">Gula</string>
+    <string name="krim">Krim</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="kopi">Kopi</string>
+    <string name="nama">Masukan nama anda</string>
+    <string name="topping">Topping:</string>
+    <string name="jumlah">Jumlah:</string>
+    <string name="harga">Harga:</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="pesan">Pesan</string>
+    <string name="nama_anda">Nama:</string>
+</resources>
